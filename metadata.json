@@ -1,0 +1,5 @@
+{
+  "name": "Sarakar Sahay",
+  "description": "A voice-enabled government scheme discovery platform for rural and urban areas.",
+  "requestFramePermissions": ["microphone"]
+}
