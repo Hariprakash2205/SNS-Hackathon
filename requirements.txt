@@ -1,6 +1,1 @@
-sarvamai
-pandas
-streamlit
-python-dotenv
-google-genai
-audio-recorder-streamlit
+
